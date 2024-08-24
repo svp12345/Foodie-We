@@ -1,19 +1,36 @@
-# Foodie_We
-FoodieWe is a Food restaurant Website which is made using Reactjs and little Bootstrap 5. It consist of proper navigation and home , about , services and contact section with Some Amazing CSS Animations and properties.
 
-Website is Hosted on this link : https://foodiewe-f6004.web.app/
 
-Some Demo Images :
+## Foodify
+Order food from the confort of your home, we show the latest restaurants available in your city, with all the details. 
+Pick a dish, add to cart, place order, get delivered.
 
-<img width="960" alt="git1" src="https://user-images.githubusercontent.com/93420193/172604101-02fd51f9-a90f-4fd0-8341-cbcac9e49fba.png">
-<img width="960" alt="git2" src="https://user-images.githubusercontent.com/93420193/172604109-0439b57d-0f0a-475d-85a4-0bacba75d061.png">
-<img width="960" alt="git3" src="https://user-images.githubusercontent.com/93420193/172604115-123be53a-a03c-4734-ac9a-fe84732eb3e8.png">
-<img width="960" alt="git4" src="https://user-images.githubusercontent.com/93420193/172604126-153b4dd8-f255-4ca7-8c92-77b5498eb8b1.png">
-<img width="960" alt="git5" src="https://user-images.githubusercontent.com/93420193/172604133-27557ac0-eb16-4e1a-ba1a-39ba77003a96.png">
+## Tech - Stack
+1. Frontend Library: React JS
+2. Styling: Tailwind CSS
+3. Database: Firebase
+4. Bundler: Parcel
+5. Authentication: Firebase-Auth
+6. State Management: Redux Toolkit
 
-Demo Video :
+## Working of project
+1. We fetch the restaurants of your city from Swiggy API, getting the live data.
+2. Display them with Area name, Cuisines Category and Ratings.
+3. Search Restaurants by Name.
+4. For any restaurant, you can checkout all the different type of dishes available with details and prices per quantity.
+5. Add to cart
+6. Authenticate yourself
+7. Place Order.
 
-https://user-images.githubusercontent.com/93420193/172604253-9e07edba-2887-4a23-9c33-84936e3ac02e.mp4
+## Screenshots
+Home Page
+![homepage](https://github.com/user-attachments/assets/d747ac2c-a98d-4df3-9b1a-acc1721fbbc2)
+
+Menu Page
+![menu](https://github.com/user-attachments/assets/9f0dc0e5-ff9c-4ab3-b097-8a79744d56d3)
+
+Cart Page
+![cart](https://github.com/user-attachments/assets/6988f080-d99b-4de6-8912-5c0a2e36d06a)
+
 
 
 
